@@ -1,2 +1,2 @@
-# computer-vision-technologies
-2ой семестр
+# computer-vision-technology-02
+### Курс Технологии компьютерного зрения (2ой семестр магистратуры)
