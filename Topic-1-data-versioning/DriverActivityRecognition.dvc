@@ -1,0 +1,6 @@
+outs:
+- md5: 0a40ac80591c11ccfa4bf526c42e4ee6.dir
+  size: 72295775
+  nfiles: 333
+  hash: md5
+  path: DriverActivityRecognition
